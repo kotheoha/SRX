@@ -18,7 +18,7 @@ The main component files for the efficient management of `spatial queries` in SR
 The main component files for the efficient management of `spatial updates` in SRX are:
 
 `BulkOperation.hpp` (path: `rdf3x-version/include/rts/runtime/`)
-* lines: 31-36, 45-65, 80-82, 87-90, 93-94
+* lines: 9-10, 31-36, 45-65, 80-82, 87-90, 93-94
 
 `BulkOperation.cpp` (path: `rdf3x-versionSRX/rts/runtime/`)
-* lines:  
+* lines: 103-1117, 1350-1397
