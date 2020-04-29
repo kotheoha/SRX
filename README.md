@@ -20,5 +20,5 @@ The main component files for the efficient management of `spatial updates` in SR
 `BulkOperation.hpp` (path: `rdf3x-version/include/rts/runtime/`)
 * lines: 9-10, 31-36, 45-65, 80-82, 87-90, 93-94
 
-`BulkOperation.cpp` (path: `rdf3x-versionSRX/rts/runtime/`)
+`BulkOperation.cpp` (path: `rdf3x-version/rts/runtime/`)
 * lines: 103-1117, 1350-1397
