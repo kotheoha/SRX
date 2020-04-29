@@ -1,5 +1,5 @@
 # SRX
-Indicative code snippets from paper: "SRX: Efficient Management of Spatial RDF Data"
+Indicative code snippets from paper: **SRX: Efficient Management of Spatial RDF Data**. I mention the lines related to my code contributions relative to the original RDF-3X code (https://code.google.com/archive/p/rdf3x/downloads)
 
 `Selection.cpp` (SRX/rts/operator)
 
