@@ -5,7 +5,7 @@ I mention the lines related to my code contributions/additions relative to the o
 
 ---
 
-The main component files for the efficient management of `spatial queries` in SRX are:
+The main component files for the efficient management of `spatial RDF queries` in SRX are:
 
 `Selection.hpp` (path: `rdf3x-version/include/rts/operator/`)
 * lines: 36-217, 972-1012
@@ -15,7 +15,7 @@ The main component files for the efficient management of `spatial queries` in SR
 
 ---
 
-The main component files for the efficient management of `spatial updates` in SRX are:
+The main component files for the efficient management of `spatial RDF updates` in SRX are:
 
 `BulkOperation.hpp` (path: `rdf3x-version/include/rts/runtime/`)
 * lines: 9-10, 31-36, 45-65, 80-82, 87-90, 93-94
