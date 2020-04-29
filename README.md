@@ -1,7 +1,7 @@
 # SRX
 Here, are presented some indicative code snippets from project/paper **SRX: Efficient Management of Spatial RDF Data**.
 
-I mention the lines related to my code contributions/additions relative to the original RDF-3X code (https://code.google.com/archive/p/rdf3x/downloads). I stress that I do that mention only for some code files; there is a plenty of files that are affected by my SRX-contributions in RDF-3X system, so I just present some indicative RDF-3X files that get affected/enriched by mine development for SRX purposes.
+I mention the lines related to my code contributions/additions relative to the original RDF-3X code (https://code.google.com/archive/p/rdf3x/downloads). I stress that I do that mention only for some code files; there is a plenty of files that are affected/enriched by my SRX-contributions in RDF-3X system, so I just present some indicative RDF-3X files that get affected/enriched by mine development for SRX purposes.
 
 ---
 
