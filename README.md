@@ -1,4 +1,5 @@
 # SRX
+
 Here, are presented some indicative code snippets from the project/paper **SRX: Efficient Management of Spatial RDF Data**.
 Notice that SRX is an extended/enriched version of popular RDF-3X system (source: `RDF-3X: A RISC-style engine for RDF`).
 
