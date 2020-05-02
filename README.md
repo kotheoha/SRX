@@ -1,7 +1,6 @@
 # SRX
 
-Here, are presented some indicative code snippets from my project/paper **SRX: Efficient Management of Spatial RDF Data**.
-Notice that SRX is an extended/enriched version of popular RDF-3X system (source: `RDF-3X: A RISC-style engine for RDF`).
+Here, are presented some indicative code snippets from my project/paper **SRX: Efficient Management of Spatial RDF Data** published in "The International Journal on Very Large Data Bases" - **The VLDB Journal** 28(5): 703-733, 2019. Notice that SRX is an extended/enriched version of popular RDF-3X system (source: `RDF-3X: A RISC-style engine for RDF`).
 
 Below, I mention the lines related to my code contributions/additions relative to the original RDF-3X code (https://code.google.com/archive/p/rdf3x/downloads). I stress that I do that mention **only** for some basic code files; there is a plenty of RDF-3X code files that are affected/enriched by my SRX-contributions in RDF-3X system, so below I just indicatively present how some basic RDF-3X code files are affected/enriched by mine development for SRX purposes.
 
